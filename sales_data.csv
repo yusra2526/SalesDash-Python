@@ -1,0 +1,9 @@
+Date,Sales,Profit,Category,Region
+2024-03-01,100,30,Electronics,North
+2024-03-02,150,50,Clothing,South
+2024-03-03,200,70,Electronics,East
+2024-03-04,120,40,Home,West
+2024-03-05,180,60,Clothing,North
+2024-03-06,,80,Electronics,South
+2024-03-07,300,100,Clothing,East
+2024-03-08,250,90,Home,West
